@@ -28,7 +28,6 @@ Created by: [Deiv-Ops](https://github.com/dgonzalezt2)
 # Contributions
 Contributions are welcome! If you find bugs, improvements or have new ideas, feel free to contact me on Linkedin or Instagram.
 
-We hope you enjoy playing Tetris as much as we enjoyed creating it. Have fun, and good luck with your games!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
