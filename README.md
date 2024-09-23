@@ -29,7 +29,7 @@ Created by: [Deiv-Ops](https://github.com/dgonzalezt2)
 Contributions are welcome! If you find bugs, improvements or have new ideas, feel free to contact me on Linkedin or Instagram.
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/david-gonz%C3%A1lez-tamayo/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/LinkedIn.svg" alt="Linkedin" width="40" height="40"/>
